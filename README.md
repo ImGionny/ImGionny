@@ -5,12 +5,6 @@
   <img src="https://img.shields.io/badge/Location-Italy-green?style=for-the-badge&logo=googlemaps&logoColor=white" alt="My Location">
 </div>
 
-<div align="center">
-  <a href="https://github.com/denvercoder1/readme-typing-svg" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2196F3&width=435&lines=Creative+Solution+Builder;Full-    Stack+Developer;Open+Source+Contributor;Clean+Code+Advocate" alt="Typing SVG" />
-  </a>
-</div>
-
 <br>
 
 A passionate **Software Developer** dedicated to building elegant, efficient, and scalable web solutions. Based in Italy, I thrive on tackling complex challenges and constantly learning new technologies. My goal is to create impactful products with a focus on code quality, user experience, and meaningful collaboration.
