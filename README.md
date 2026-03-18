@@ -7,7 +7,7 @@
 
 <br>
 
-A passionate **Software Developer** dedicated to building elegant, efficient, and scalable web solutions. Based in Italy, I thrive on tackling complex challenges and constantly learning new technologies. My goal is to create impactful products with a focus on code quality, user experience, and meaningful collaboration.
+A passionate **Software/Web Developer** dedicated to building elegant, efficient, and scalable web solutions. Based in Italy, I thrive on tackling complex challenges and constantly learning new technologies. My goal is to create impactful products with a focus on code quality, user experience, and meaningful collaboration.
 
 ---
 
